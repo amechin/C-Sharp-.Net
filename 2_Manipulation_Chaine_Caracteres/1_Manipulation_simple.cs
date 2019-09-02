@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ChaineDeCaractere
 {
@@ -13,13 +9,15 @@ namespace ChaineDeCaractere
             Console.WriteLine("Saisissez une phrase");
             string chaine = Console.ReadLine();
 
-            // Premier test : première lettre en majuscule ou minuscule ?
             testerPremiereLettre(chaine);
-            testerSeFiniParUnPoint(chaine);
-            nbreDeMots(chaine);
-            Console.WriteLine("La phrase contient " + nbreDeCaracteres(chaine) + " caractère(s)");
-            nbredEspaces(chaine);
 
+            testerSeFiniParUnPoint(chaine);
+
+            nbreDeMots(chaine);
+
+            Console.WriteLine("La phrase contient " + nbreDeCaracteres(chaine) + " caractère(s)");
+
+            nbredEspaces(chaine);
 
             Console.ReadLine();
         }
@@ -60,7 +58,6 @@ namespace ChaineDeCaractere
                     compteurEspaces++;
                 }
             }
-
             compteurEspaces += 1;
             Console.WriteLine("Il y a "+ compteurEspaces +" mot(s) dans cette phrase");
         }
