@@ -13,12 +13,12 @@ namespace TP_3Projets_5Septembre2019
         private Client proprietaire;
         private static int nombre_comptes = 0;
 
-        public int Numero                                              //Le numéro de compte est lecture seule
+        public int Numero                                              
         {
             get { return numero; }
         }
 
-        public double Solde                                           //Le solde est en lecture seule
+        public double Solde                           
         {
             get { return solde; }
         }
@@ -42,7 +42,7 @@ namespace TP_3Projets_5Septembre2019
             Console.WriteLine("Opération bien effectuée");
         }
 
-        public void Crediter(Compte c, double somme)                     //une deuxiéme méthode Crediter(..) avec des paramétres différents (surcharge des méthodes)
+        public void Crediter(Compte c, double somme)                   
         {
             if (c.solde >= somme)
             {
@@ -59,38 +59,37 @@ namespace TP_3Projets_5Septembre2019
             if (solde >= somme)
             {
                 solde -= somme;
-                Console.Out.WriteLine("Opération bien effectuée");
+                Console.WriteLine("Opération bien effectuée");
             }
             else
-                Console.Out.WriteLine("Solde insuffisant");
+                Console.WriteLine("Solde insuffisant");
         }
 
-        public void Debiter(Compte c, double somme)                      //une deuxiéme méthode Debiter(..) avec des paramétres différents (surcharge des méthodes)
+        public void Debiter(Compte c, double somme)              
         {
             if (solde >= somme)
             {
                 solde -= somme;
                 c.solde += somme;
-                Console.Out.WriteLine("Opération bien effectuée");
+                Console.WriteLine("Opération bien effectuée");
             }
             else
-                Console.Out.WriteLine("Solde insuffisant");
+                Console.WriteLine("Solde insuffisant");
         }
 
         public void Afficher()
         {
-            Console.Out.WriteLine("************************");
-            Console.Out.WriteLine("Numéro de Compte: " + numero);
-            Console.Out.WriteLine("Solde de compte: " + solde);
-            Console.Out.WriteLine("Propriétaire du compte : ");
+            Console.WriteLine("************************");
+            Console.WriteLine("Numéro de Compte: " + numero);
+            Console.WriteLine("Solde de compte: " + solde);
+            Console.WriteLine("Propriétaire du compte : ");
             proprietaire.Afficher();
-            Console.Out.WriteLine("*************************");
+            Console.WriteLine("*************************");
         }
 
         public static void Nombre_Comptes()
         {
-            Console.Out.WriteLine("\n\nLe nombre de comptes crées: " + nombre_comptes);
+            Console.WriteLine("\n\nLe nombre de comptes crées: " + nombre_comptes);
         }
     }
-    //Source : www.exelib.net
 }

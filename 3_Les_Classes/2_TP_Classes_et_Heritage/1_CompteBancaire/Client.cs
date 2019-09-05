@@ -14,7 +14,7 @@ namespace TP_3Projets_5Septembre2019
         private string prenom;
         private string tel;
 
-        public string Cin                      //Cin en lecture seule
+        public string Cin                  
         {
             get { return cin; }
         }
@@ -55,7 +55,7 @@ namespace TP_3Projets_5Septembre2019
             Console.WriteLine("NOM: " + nom);
             Console.WriteLine("Prénom: " + prenom);
             if (tel != "")
-                Console.Out.WriteLine("Tél : " + tel);
+                Console.WriteLine("Tél : " + tel);
         }
     }
 }

@@ -10,7 +10,7 @@ namespace TP_3Projets_5Septembre2019
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Compte 1: ");
+            Console.WriteLine("Compte #1: ");
             string cin, nom, prenom, tel;
             Console.Write("Donner Le CIN: ");
             cin = Console.ReadLine();
@@ -36,7 +36,7 @@ namespace TP_3Projets_5Septembre2019
             C1.Debiter(montant);
             C1.Afficher();
 
-            Console.WriteLine("\n\nCompte 2: ");
+            Console.WriteLine("\n\nCompte #2: ");
             Console.Write("Donner Le CIN: ");
             cin = Console.ReadLine();
             Console.Write("Donner Le Nom: ");
