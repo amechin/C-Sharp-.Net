@@ -1,7 +1,0 @@
-C:\Users\adrienmechin\source\repos\TP_3Projets_5Septembre2019\TP_3Projets_5Septembre2019\obj\Debug\TP_3Projets_5Septembre2019.csprojAssemblyReference.cache
-C:\Users\adrienmechin\source\repos\TP_3Projets_5Septembre2019\TP_3Projets_5Septembre2019\obj\Debug\TP_3Projets_5Septembre2019.csproj.CoreCompileInputs.cache
-C:\Users\adrienmechin\source\repos\TP_3Projets_5Septembre2019\TP_3Projets_5Septembre2019\bin\Debug\TP_3Projets_5Septembre2019.exe.config
-C:\Users\adrienmechin\source\repos\TP_3Projets_5Septembre2019\TP_3Projets_5Septembre2019\bin\Debug\TP_3Projets_5Septembre2019.exe
-C:\Users\adrienmechin\source\repos\TP_3Projets_5Septembre2019\TP_3Projets_5Septembre2019\bin\Debug\TP_3Projets_5Septembre2019.pdb
-C:\Users\adrienmechin\source\repos\TP_3Projets_5Septembre2019\TP_3Projets_5Septembre2019\obj\Debug\TP_3Projets_5Septembre2019.exe
-C:\Users\adrienmechin\source\repos\TP_3Projets_5Septembre2019\TP_3Projets_5Septembre2019\obj\Debug\TP_3Projets_5Septembre2019.pdb
