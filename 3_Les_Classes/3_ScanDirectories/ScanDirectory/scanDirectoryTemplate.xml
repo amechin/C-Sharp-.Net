@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Folder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" folder_name="BankAccount" nb_subfolders="5" nb_files="4">
+  <Subfolders>
+    <Subfolder folder_name=".git" nb_subfolders="5" nb_files="5">
+      <Subfolders>
+        <Subfolder folder_name="hooks" nb_subfolders="0" nb_files="11">
+          <Subfolders />
+          <files>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\applypatch-msg.sample" filesize="478" extension=".sample">
+              <filename>applypatch-msg.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\commit-msg.sample" filesize="896" extension=".sample">
+              <filename>commit-msg.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\fsmonitor-watchman.sample" filesize="3327" extension=".sample">
+              <filename>fsmonitor-watchman.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\post-update.sample" filesize="189" extension=".sample">
+              <filename>post-update.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\pre-applypatch.sample" filesize="424" extension=".sample">
+              <filename>pre-applypatch.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\pre-commit.sample" filesize="1638" extension=".sample">
+              <filename>pre-commit.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\pre-push.sample" filesize="1348" extension=".sample">
+              <filename>pre-push.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\pre-rebase.sample" filesize="4898" extension=".sample">
+              <filename>pre-rebase.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\pre-receive.sample" filesize="544" extension=".sample">
+              <filename>pre-receive.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\prepare-commit-msg.sample" filesize="1492" extension=".sample">
+              <filename>prepare-commit-msg.sample</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\hooks\update.sample" filesize="3610" extension=".sample">
+              <filename>update.sample</filename>
+            </File>
+          </files>
+          <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\hooks</folder_path>
+        </Subfolder>
+        <Subfolder folder_name="info" nb_subfolders="0" nb_files="1">
+          <Subfolders />
+          <files>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\info\exclude" filesize="240" extension="">
+              <filename>exclude</filename>
+            </File>
+          </files>
+          <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\info</folder_path>
+        </Subfolder>
+        <Subfolder folder_name="logs" nb_subfolders="1" nb_files="1">
+          <Subfolders>
+            <Subfolder folder_name="refs" nb_subfolders="2" nb_files="0">
+              <Subfolders>
+                <Subfolder folder_name="heads" nb_subfolders="0" nb_files="1">
+                  <Subfolders />
+                  <files>
+                    <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\logs\refs\heads\master" filesize="177" extension="">
+                      <filename>master</filename>
+                    </File>
+                  </files>
+                  <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\logs\refs\heads</folder_path>
+                </Subfolder>
+                <Subfolder folder_name="remotes" nb_subfolders="1" nb_files="0">
+                  <Subfolders>
+                    <Subfolder folder_name="origin" nb_subfolders="0" nb_files="1">
+                      <Subfolders />
+                      <files>
+                        <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\logs\refs\remotes\origin\master" filesize="159" extension="">
+                          <filename>master</filename>
+                        </File>
+                      </files>
+                      <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\logs\refs\remotes\origin</folder_path>
+                    </Subfolder>
+                  </Subfolders>
+                  <files />
+                  <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\logs\refs\remotes</folder_path>
+                </Subfolder>
+              </Subfolders>
+              <files />
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\logs\refs</folder_path>
+            </Subfolder>
+          </Subfolders>
+          <files>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\logs\HEAD" filesize="177" extension="">
+              <filename>HEAD</filename>
+            </File>
+          </files>
+          <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\logs</folder_path>
+        </Subfolder>
+        <Subfolder folder_name="objects" nb_subfolders="15" nb_files="0">
+          <Subfolders>
+            <Subfolder folder_name="2f" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\2f\29cb87fa12ff225092fc6ef08330872337ae9e" filesize="212" extension="">
+                  <filename>29cb87fa12ff225092fc6ef08330872337ae9e</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\2f</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="3d" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\3d\6b5f5766b4e3be01dc60f21473c31f01d3a885" filesize="2872" extension="">
+                  <filename>6b5f5766b4e3be01dc60f21473c31f01d3a885</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\3d</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="55" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\55\821e4657bacba085ae22eb14feb54707e48c17" filesize="163" extension="">
+                  <filename>821e4657bacba085ae22eb14feb54707e48c17</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\55</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="56" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\56\efbc7b5f15b5166cc89dae0406895b57de0b67" filesize="153" extension="">
+                  <filename>efbc7b5f15b5166cc89dae0406895b57de0b67</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\56</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="57" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\57\008d8d18d921909acdb62798ae31095e319eb4" filesize="715" extension="">
+                  <filename>008d8d18d921909acdb62798ae31095e319eb4</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\57</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="62" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\62\78d204814a0e4e37c7e9ed3b1cb0b326120d0d" filesize="878" extension="">
+                  <filename>78d204814a0e4e37c7e9ed3b1cb0b326120d0d</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\62</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="6f" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\6f\68d08d47fe24d03bc17784d98aa82667d1de0d" filesize="326" extension="">
+                  <filename>68d08d47fe24d03bc17784d98aa82667d1de0d</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\6f</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="79" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\79\8de0ac01d8e7cae7dcfa67af1045a5f35b91dd" filesize="230" extension="">
+                  <filename>8de0ac01d8e7cae7dcfa67af1045a5f35b91dd</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\79</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="83" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\83\01e054862bdf32ea0021e76ed9f5bb844ea713" filesize="209" extension="">
+                  <filename>01e054862bdf32ea0021e76ed9f5bb844ea713</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\83</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="8e" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\8e\a1e2dddeba3a42163189517805639105a53aab" filesize="60" extension="">
+                  <filename>a1e2dddeba3a42163189517805639105a53aab</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\8e</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="a6" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\a6\267002d495cdb8372b03d1ad300d18c65f6fa6" filesize="559" extension="">
+                  <filename>267002d495cdb8372b03d1ad300d18c65f6fa6</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\a6</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="e4" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\e4\86a6b29bec9f8ab5ce5e5bb27f2a9fb548f323" filesize="140" extension="">
+                  <filename>86a6b29bec9f8ab5ce5e5bb27f2a9fb548f323</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\e4</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="eb" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\objects\eb\ea9164f7d947734b6cefff63e9a6640aeb351b" filesize="383" extension="">
+                  <filename>ea9164f7d947734b6cefff63e9a6640aeb351b</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\eb</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="info" nb_subfolders="0" nb_files="0">
+              <Subfolders />
+              <files />
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\info</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="pack" nb_subfolders="0" nb_files="0">
+              <Subfolders />
+              <files />
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects\pack</folder_path>
+            </Subfolder>
+          </Subfolders>
+          <files />
+          <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\objects</folder_path>
+        </Subfolder>
+        <Subfolder folder_name="refs" nb_subfolders="3" nb_files="0">
+          <Subfolders>
+            <Subfolder folder_name="heads" nb_subfolders="0" nb_files="1">
+              <Subfolders />
+              <files>
+                <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\refs\heads\master" filesize="41" extension="">
+                  <filename>master</filename>
+                </File>
+              </files>
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\refs\heads</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="remotes" nb_subfolders="1" nb_files="0">
+              <Subfolders>
+                <Subfolder folder_name="origin" nb_subfolders="0" nb_files="1">
+                  <Subfolders />
+                  <files>
+                    <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\refs\remotes\origin\master" filesize="41" extension="">
+                      <filename>master</filename>
+                    </File>
+                  </files>
+                  <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\refs\remotes\origin</folder_path>
+                </Subfolder>
+              </Subfolders>
+              <files />
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\refs\remotes</folder_path>
+            </Subfolder>
+            <Subfolder folder_name="tags" nb_subfolders="0" nb_files="0">
+              <Subfolders />
+              <files />
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\refs\tags</folder_path>
+            </Subfolder>
+          </Subfolders>
+          <files />
+          <folder_path>C:\Users\gavod\source\repos\BankAccount\.git\refs</folder_path>
+        </Subfolder>
+      </Subfolders>
+      <files>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\COMMIT_EDITMSG" filesize="15" extension="">
+          <filename>COMMIT_EDITMSG</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\config" filesize="312" extension="">
+          <filename>config</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\description" filesize="73" extension="">
+          <filename>description</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\HEAD" filesize="23" extension="">
+          <filename>HEAD</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\.git\index" filesize="923" extension="">
+          <filename>index</filename>
+        </File>
+      </files>
+      <folder_path>C:\Users\gavod\source\repos\BankAccount\.git</folder_path>
+    </Subfolder>
+    <Subfolder folder_name="bin" nb_subfolders="1" nb_files="0">
+      <Subfolders>
+        <Subfolder folder_name="Debug" nb_subfolders="0" nb_files="3">
+          <Subfolders />
+          <files>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\bin\Debug\BankAccount.exe" filesize="10240" extension=".exe">
+              <filename>BankAccount.exe</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\bin\Debug\BankAccount.exe.config" filesize="189" extension=".config">
+              <filename>BankAccount.exe.config</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\bin\Debug\BankAccount.pdb" filesize="38400" extension=".pdb">
+              <filename>BankAccount.pdb</filename>
+            </File>
+          </files>
+          <folder_path>C:\Users\gavod\source\repos\BankAccount\bin\Debug</folder_path>
+        </Subfolder>
+      </Subfolders>
+      <files />
+      <folder_path>C:\Users\gavod\source\repos\BankAccount\bin</folder_path>
+    </Subfolder>
+    <Subfolder folder_name="Models" nb_subfolders="0" nb_files="7">
+      <Subfolders />
+      <files>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\Models\GenericClasse.cs" filesize="1397" extension=".cs">
+          <filename>GenericClasse.cs</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\Models\Helper.cs" filesize="962" extension=".cs">
+          <filename>Helper.cs</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\Models\IStudent.cs" filesize="230" extension=".cs">
+          <filename>IStudent.cs</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\Models\MonFichierPartiel.cs" filesize="354" extension=".cs">
+          <filename>MonFichierPartiel.cs</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\Models\MonFichierPartielTraitement.cs" filesize="348" extension=".cs">
+          <filename>MonFichierPartielTraitement.cs</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\Models\Personne.cs" filesize="725" extension=".cs">
+          <filename>Personne.cs</filename>
+        </File>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\Models\Student.cs" filesize="1685" extension=".cs">
+          <filename>Student.cs</filename>
+        </File>
+      </files>
+      <folder_path>C:\Users\gavod\source\repos\BankAccount\Models</folder_path>
+    </Subfolder>
+    <Subfolder folder_name="obj" nb_subfolders="1" nb_files="0">
+      <Subfolders>
+        <Subfolder folder_name="Debug" nb_subfolders="1" nb_files="6">
+          <Subfolders>
+            <Subfolder folder_name="TempPE" nb_subfolders="0" nb_files="0">
+              <Subfolders />
+              <files />
+              <folder_path>C:\Users\gavod\source\repos\BankAccount\obj\Debug\TempPE</folder_path>
+            </Subfolder>
+          </Subfolders>
+          <files>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache" filesize="42" extension=".cache">
+              <filename>BankAccount.csproj.CoreCompileInputs.cache</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\obj\Debug\BankAccount.csproj.FileListAbsolute.txt" filesize="529" extension=".txt">
+              <filename>BankAccount.csproj.FileListAbsolute.txt</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache" filesize="1905" extension=".cache">
+              <filename>BankAccount.csprojAssemblyReference.cache</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\obj\Debug\BankAccount.exe" filesize="10240" extension=".exe">
+              <filename>BankAccount.exe</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\obj\Debug\BankAccount.pdb" filesize="38400" extension=".pdb">
+              <filename>BankAccount.pdb</filename>
+            </File>
+            <File filepath="C:\Users\gavod\source\repos\BankAccount\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" filesize="6746" extension=".cache">
+              <filename>DesignTimeResolveAssemblyReferencesInput.cache</filename>
+            </File>
+          </files>
+          <folder_path>C:\Users\gavod\source\repos\BankAccount\obj\Debug</folder_path>
+        </Subfolder>
+      </Subfolders>
+      <files />
+      <folder_path>C:\Users\gavod\source\repos\BankAccount\obj</folder_path>
+    </Subfolder>
+    <Subfolder folder_name="Properties" nb_subfolders="0" nb_files="1">
+      <Subfolders />
+      <files>
+        <File filepath="C:\Users\gavod\source\repos\BankAccount\Properties\AssemblyInfo.cs" filesize="1549" extension=".cs">
+          <filename>AssemblyInfo.cs</filename>
+        </File>
+      </files>
+      <folder_path>C:\Users\gavod\source\repos\BankAccount\Properties</folder_path>
+    </Subfolder>
+  </Subfolders>
+  <files>
+    <File filepath="C:\Users\gavod\source\repos\BankAccount\.gitignore" filesize="6488" extension=".gitignore">
+      <filename>.gitignore</filename>
+    </File>
+    <File filepath="C:\Users\gavod\source\repos\BankAccount\App.config" filesize="189" extension=".config">
+      <filename>App.config</filename>
+    </File>
+    <File filepath="C:\Users\gavod\source\repos\BankAccount\BankAccount.csproj" filesize="2724" extension=".csproj">
+      <filename>BankAccount.csproj</filename>
+    </File>
+    <File filepath="C:\Users\gavod\source\repos\BankAccount\Program.cs" filesize="2256" extension=".cs">
+      <filename>Program.cs</filename>
+    </File>
+  </files>
+  <folder_path>C:\Users\gavod\source\repos\BankAccount</folder_path>
+</Folder>
